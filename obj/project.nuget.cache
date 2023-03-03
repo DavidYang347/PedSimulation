@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GesrqlJIPE1Ajz73LLyTvpE7oxc0kzolVMPd5o+ZOszMwW0a/xAefBuL/rAqx0n5+VE1prRTvic4gZnbzENO2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\19814\\Desktop\\c# for GH\\PedSimulation\\PedSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\19814\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\19814\\.nuget\\packages\\microsoft.qualitytools.testing.fakes\\16.11.230815\\microsoft.qualitytools.testing.fakes.16.11.230815.nupkg.sha512",
+    "C:\\Users\\19814\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\19814\Desktop\c# for GH\PedSimulation\obj\Release\net48\PedSimulation.csproj.AssemblyReference.cache
+C:\Users\19814\Desktop\c# for GH\PedSimulation\obj\Release\net48\PedSimulation.Properties.Resources.resources
+C:\Users\19814\Desktop\c# for GH\PedSimulation\obj\Release\net48\PedSimulation.csproj.GenerateResource.cache
+C:\Users\19814\Desktop\c# for GH\PedSimulation\obj\Release\net48\PedSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19814\Desktop\c# for GH\PedSimulation\obj\Release\net48\PedSimulation.AssemblyInfoInputs.cache
+C:\Users\19814\Desktop\c# for GH\PedSimulation\obj\Release\net48\PedSimulation.AssemblyInfo.cs
+C:\Users\19814\Desktop\c# for GH\PedSimulation\obj\Release\net48\PedSimulation.csproj.CoreCompileInputs.cache
